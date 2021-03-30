@@ -30,3 +30,4 @@ References:
 
 1. [DeepSORT](https://github.com/nwojke/deep_sort)
 2. [YOLOv3-tf](https://github.com/zzh8829/yolov3-tf2)
+3. [Kalman Filter](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
